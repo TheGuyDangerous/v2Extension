@@ -3,7 +3,7 @@
 Simplifying VTOP with captcha solutions, themes, navbar shortcuts, and an ad-free experience!
 
 [![made-with-Javascript](https://img.shields.io/badge/Made%20with-Javascript-1f425f.svg)](https://javascript.com/)
-<a href="https://craptcha.tech"><img src="https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fcraptcha.tech" height="20"></a>
+<a href="https://craptcha.tech"><img src="https://img.shields.io/website?label=website&style=for-the-badge&url=https://sannidhya.me" height="20"></a>
  ![Release](https://img.shields.io/github/v/release/CRAPTCHA-VITB/v2Extension)
 
  ### Don't forget to :star: the repo
